@@ -1,0 +1,6 @@
+TensorFlow 
+NumPy
+Pandas
+Matplotlib
+pickle
+os
